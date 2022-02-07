@@ -24,7 +24,8 @@
     "devDependencies": {
         "markdown-it": "12.3.2",
         "markdown-it-testgen": "0.1.6",
-        "tape": "5.5.0"
+        "tape": "5.5.0",
+        "watchify": "4.0.0"
     },
     "peerDependencies": {
         "katex": "^0.15.2"
