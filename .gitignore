@@ -168,3 +168,5 @@ typings/
 
 # jetbrains ide
 .idea/
+
+/bundle.js
