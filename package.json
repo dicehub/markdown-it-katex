@@ -23,11 +23,11 @@
     "license": "MIT",
     "devDependencies": {
         "markdown-it-testgen": "0.1.6",
-        "tape": "5.5.3",
+        "tape": "5.6.6",
         "watchify": "4.0.0"
     },
     "peerDependencies": {
-        "katex": "0.16.0",
+        "katex": "0.16.8",
         "markdown-it": "13.0.1"
     }
 }
