@@ -1,6 +1,6 @@
 {
     "name": "@dicehub/markdown-it-katex",
-    "version": "5.0.4",
+    "version": "5.0.5",
     "description": "Fast math support for markdown-it with KaTeX",
     "main": "index.js",
     "scripts": {
@@ -23,11 +23,11 @@
     "license": "MIT",
     "devDependencies": {
         "markdown-it-testgen": "0.1.6",
-        "tape": "5.6.6",
+        "tape": "5.7.5",
         "watchify": "4.0.0"
     },
     "peerDependencies": {
-        "katex": "0.16.8",
-        "markdown-it": "13.0.1"
+        "katex": "0.16.10",
+        "markdown-it": "14.1.0"
     }
 }
